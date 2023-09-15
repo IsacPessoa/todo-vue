@@ -64,11 +64,3 @@
     <ListaDeTarefas :tarefas="getTarefasFiltradas()" />
   </div>
 </template>
-
-<style scoped>
-
-  .done {
-    text-decoration: line-through;
-  }
-
-</style>
